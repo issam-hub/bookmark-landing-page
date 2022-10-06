@@ -1,0 +1,77 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 536 346" width="450" height="290">
+	<title>illustration-features-tab-1-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 8c0-4.42 3.58-8 8-8h520c4.42 0 8 3.58 8 8v330c0 4.42-3.58 8-8 8h-520c-4.42 0-8-3.58-8-8z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0 8c0-4.42 3.58-8 8-8h520c4.42 0 8 3.58 8 8v330c0 4.42-3.58 8-8 8h-520c-4.42 0-8-3.58-8-8z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #e8eaf6 } 
+		.s1 { fill: #242a45 } 
+		.s2 { opacity: .2;fill: #ffffff } 
+		.s3 { opacity: .1;fill: #ffffff } 
+		.s4 { opacity: .7;fill: #ffffff } 
+		.s5 { opacity: .3;fill: #ffffff } 
+		.s6 { fill: #ffffff } 
+		.s7 { opacity: .5;fill: #242a45 } 
+		.s8 { fill: #f98e5d } 
+		.s9 { opacity: .3;fill: #242a45 } 
+		.s10 { fill: #6ac6d6 } 
+		.s11 { fill: #a47ed4 } 
+		.s12 { fill: #ec7878 } 
+	</style>
+	<g id="Layer">
+		<path id="a" class="s0" d="m0 8c0-4.4 3.6-8 8-8h520c4.4 0 8 3.6 8 8v330c0 4.4-3.6 8-8 8h-520c-4.4 0-8-3.6-8-8z"/>
+		<g id="Clip-Path" clip-path="url(#cp1)">
+			<g id="Layer">
+				<path id="Layer" fill-rule="evenodd" class="s1" d="m-3.5 0.2h547v59h-547z"/>
+				<g id="Layer">
+					<path id="Layer" class="s2" d="m38.5 46.2c-8.9 0-16-7.2-16-16 0-8.9 7.1-16 16-16 8.8 0 16 7.1 16 16 0 8.8-7.2 16-16 16z"/>
+					<path id="Layer" class="s3" d="m499.5 46.2c-8.9 0-16-7.2-16-16 0-8.9 7.1-16 16-16 8.8 0 16 7.1 16 16 0 8.8-7.2 16-16 16z"/>
+					<g id="Layer">
+						<path id="Layer" class="s4" d="m69.5 23.2c0-1.7 1.3-3 3-3h114c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-114c-1.7 0-3-1.3-3-3z"/>
+						<path id="Layer" class="s5" d="m69.5 37.2c0-1.7 1.3-3 3-3h58c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-58c-1.7 0-3-1.3-3-3z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp2)">
+			<g id="Layer">
+				<g id="Layer">
+					<path id="Layer" class="s6" d="m57 101c0-4.4 3.6-8 8-8h245c4.4 0 8 3.6 8 8v300c0 4.4-3.6 8-8 8h-245c-4.4 0-8-3.6-8-8z"/>
+					<path id="Layer" class="s6" d="m352 101c0-4.4 3.6-8 8-8h112c4.4 0 8 3.6 8 8v300c0 4.4-3.6 8-8 8h-112c-4.4 0-8-3.6-8-8z"/>
+					<path id="Layer" class="s7" d="m135.5 134.2c0-1.7 1.3-3 3-3h114c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-114c-1.7 0-3-1.3-3-3z"/>
+				</g>
+			</g>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s8" d="m104.5 157.2c-8.9 0-16-7.2-16-16 0-8.9 7.1-16 16-16 8.8 0 16 7.1 16 16 0 8.8-7.2 16-16 16z"/>
+			<path id="Layer" class="s9" d="m372.5 118.2c0-1.7 1.3-3 3-3h82c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-82c-1.7 0-3-1.3-3-3z"/>
+			<path id="Layer" class="s9" d="m372.5 138.2c0-1.7 1.3-3 3-3h82c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-82c-1.7 0-3-1.3-3-3z"/>
+			<path id="Layer" class="s9" d="m372.5 158.2c0-1.7 1.3-3 3-3h82c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-82c-1.7 0-3-1.3-3-3z"/>
+			<path id="Layer" class="s9" d="m372.5 178.2c0-1.7 1.3-3 3-3h82c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-82c-1.7 0-3-1.3-3-3z"/>
+			<path id="Layer" class="s9" d="m372.5 212.2c0-1.7 1.3-3 3-3h82c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-82c-1.7 0-3-1.3-3-3z"/>
+			<path id="Layer" class="s9" d="m372.5 232.2c0-1.7 1.3-3 3-3h82c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-82c-1.7 0-3-1.3-3-3z"/>
+			<path id="Layer" class="s9" d="m372.5 252.2c0-1.7 1.3-3 3-3h82c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-82c-1.7 0-3-1.3-3-3z"/>
+			<path id="Layer" class="s9" d="m135.5 148.2c0-1.7 1.3-3 3-3h58c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-58c-1.7 0-3-1.3-3-3z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s10" d="m104.5 213.2c-8.9 0-16-7.2-16-16 0-8.9 7.1-16 16-16 8.8 0 16 7.1 16 16 0 8.8-7.2 16-16 16z"/>
+			<path id="Layer" class="s7" d="m135.5 190.2c0-1.7 1.3-3 3-3h114c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-114c-1.7 0-3-1.3-3-3z"/>
+			<path id="Layer" class="s9" d="m135.5 204.2c0-1.7 1.3-3 3-3h58c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-58c-1.7 0-3-1.3-3-3z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s11" d="m104.5 269.2c-8.9 0-16-7.2-16-16 0-8.9 7.1-16 16-16 8.8 0 16 7.1 16 16 0 8.8-7.2 16-16 16z"/>
+			<path id="Layer" class="s7" d="m135.5 246.2c0-1.7 1.3-3 3-3h114c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-114c-1.7 0-3-1.3-3-3z"/>
+			<path id="Layer" class="s9" d="m135.5 260.2c0-1.7 1.3-3 3-3h58c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-58c-1.7 0-3-1.3-3-3z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s12" d="m104.5 325.2c-8.9 0-16-7.2-16-16 0-8.9 7.1-16 16-16 8.8 0 16 7.1 16 16 0 8.8-7.2 16-16 16z"/>
+			<path id="Layer" class="s7" d="m135.5 302.2c0-1.7 1.3-3 3-3h114c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-114c-1.7 0-3-1.3-3-3z"/>
+			<path id="Layer" class="s9" d="m135.5 316.2c0-1.7 1.3-3 3-3h58c1.6 0 3 1.3 3 3 0 1.7-1.4 3-3 3h-58c-1.7 0-3-1.3-3-3z"/>
+		</g>
+	</g>
+</svg>
