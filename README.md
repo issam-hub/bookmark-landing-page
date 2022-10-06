@@ -30,7 +30,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot1](./screenshots/screenshot1.png)
+
+![screenshot1](./screenshots/screenshot2.png)
+
+![screenshot1](./screenshots/screenshot3.png)
 
 
 ### Links
