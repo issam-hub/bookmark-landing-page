@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/bookmark-landing-using-tailwindcss-fully-responsive--uF9JTi_TS)
 - Live Site URL: [bookmark](https://issam-hub.github.io/bookmark-landing-page/)
 
 ## My process
