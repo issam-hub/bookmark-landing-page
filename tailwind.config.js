@@ -54,9 +54,9 @@ module.exports = {
             },
             animation: {
                 fadeout: 'fadeout 1s forwards cubic-bezier(0.390, 0.575, 0.565, 1.000)',
-                fadein: 'fadein 500ms forwards cubic-bezier(0.250, 0.460, 0.450, 0.940)',
+                fadein: 'fadein 700ms forwards cubic-bezier(0.250, 0.460, 0.450, 0.940)',
                 fadeout2: 'fadeout2 1s forwards cubic-bezier(0.390, 0.575, 0.565, 1.000)',
-                fadein2: 'fadein2 500ms forwards cubic-bezier(0.250, 0.460, 0.450, 0.940)',
+                fadein2: 'fadein2 700ms forwards cubic-bezier(0.250, 0.460, 0.450, 0.940)',
                 sweep: 'sweep .5s ease-out'
             }
         },
