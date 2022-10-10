@@ -1280,8 +1280,8 @@ details[open] summary::after {
 }
 
 .animate-fadein {
-  -webkit-animation: fadein 500ms forwards cubic-bezier(0.250, 0.460, 0.450, 0.940);
-          animation: fadein 500ms forwards cubic-bezier(0.250, 0.460, 0.450, 0.940);
+  -webkit-animation: fadein 700ms forwards cubic-bezier(0.250, 0.460, 0.450, 0.940);
+          animation: fadein 700ms forwards cubic-bezier(0.250, 0.460, 0.450, 0.940);
 }
 
 @-webkit-keyframes fadein2 {
@@ -1309,8 +1309,8 @@ details[open] summary::after {
 }
 
 .animate-fadein2 {
-  -webkit-animation: fadein2 500ms forwards cubic-bezier(0.250, 0.460, 0.450, 0.940);
-          animation: fadein2 500ms forwards cubic-bezier(0.250, 0.460, 0.450, 0.940);
+  -webkit-animation: fadein2 700ms forwards cubic-bezier(0.250, 0.460, 0.450, 0.940);
+          animation: fadein2 700ms forwards cubic-bezier(0.250, 0.460, 0.450, 0.940);
 }
 
 @-webkit-keyframes sweep {
@@ -1394,6 +1394,10 @@ details[open] summary::after {
 
 .border-2 {
   border-width: 2px;
+}
+
+.border {
+  border-width: 1px;
 }
 
 .border-y {
