@@ -129,20 +129,32 @@ function changeColor(element){
 const leftedHiddenElements = document.querySelectorAll(".section-left");
 const rightedHiddenElements = document.querySelectorAll(".section-right");
 
-animateOnScroll(leftedHiddenElements);
-animateOnScroll(rightedHiddenElements);
+// animateOnScroll(leftedHiddenElements);
+// animateOnScroll(rightedHiddenElements);
 
-// function to animate on scroll 
+// function to animate on scroll
 function animateOnScroll(elements){
     const observer = new IntersectionObserver((entries)=>{
         entries.forEach((entry)=>{
             if(entry.isIntersecting){
                 entry.target.classList.add("show");
             }
-            else{
-                entry.target.classList.remove("show");
-            }
         });
     });
     elements.forEach((el)=> observer.observe(el));
 }
+
+// make animation works only from up to down and not the opposite
+const observer = new IntersectionObserver((entries)=>{
+    entries.forEach((entry)=>{
+        if(entry.isIntersecting === false){
+            animateOnScroll(leftedHiddenElements);
+            animateOnScroll(rightedHiddenElements);
+        }else{
+            leftedHiddenElements.forEach(element=>element.classList.remove("show"));
+            rightedHiddenElements.forEach(element=>element.classList.remove("show"));
+        }
+    })
+});
+
+observer.observe(document.querySelector(".header"));
