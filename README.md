@@ -30,13 +30,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot1](./screenshots/screenshot1.png)
+
+![screenshot2](./screenshots/screenshot2.png)
+
+![screenshot3](./screenshots/Screenshot3.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/bookmark-landing-using-tailwindcss-fully-responsive--uF9JTi_TS)
+- Live Site URL: [bookmark](https://issam-hub.github.io/bookmark-landing-page/)
 
 ## My process
 
